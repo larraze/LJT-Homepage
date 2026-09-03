@@ -190,6 +190,14 @@ collections:
     permalink: /:collection/:path/
 
 
+# Publication categories
+publication_category:
+  conferences:
+    title: "Conference Papers"
+  manuscripts:
+    title: "Preprints"
+
+
 # Defaults
 defaults:
   # _posts
